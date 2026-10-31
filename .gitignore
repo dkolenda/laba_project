@@ -1,0 +1,44 @@
+# Unreal Engine - generated folders
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Build/
+/.vs/
+/.idea/
+/.vscode/
+
+# Plugins - generated folders
+/Plugins/**/Binaries/
+/Plugins/**/Intermediate/
+
+# Generated project files
+*.sln
+*.slnx
+*.suo
+*.VC.db
+*.VC.opendb
+*.code-workspace
+.vsconfig
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.lib
+*.obj
+*.modules
+*.target
+
+# Cooked / packaged content
+*.pak
+*.ucas
+*.utoc
+
+# Crash dumps
+*.dmp
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
