@@ -19,7 +19,7 @@ Import the individual textures from `ReadyForImport`:
 ## Unreal Engine texture settings
 
 - Texture Group: `UI`
-- Compression Settings: `UserInterface2D (RGBA)`
+- Compression Settings: `Uncompressed (RGBA8)` (UE 5.8 name; older versions: `UserInterface2D (RGBA)`)
 - sRGB: enabled
 - Mip Gen Settings: `NoMipmaps`
 - Address X: `Wrap`
